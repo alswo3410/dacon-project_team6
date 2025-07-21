@@ -1,0 +1,5 @@
+# Jupyter 자동 저장 체크포인트 폴더 무시
+.ipynb_checkpoints/
+
+# 모든 CSV 파일 무시
+*.csv
